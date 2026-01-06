@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Simona 👋
 
-<!--
-**csmSimona/csmSimona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/个人网站-https://chenshimeng.top/-blue)](http://chenshimeng.top/)
+[![Portfolio](https://img.shields.io/badge/个人文档-https://doc.chenshimeng.top/-blue)](http://doc.chenshimeng.top/)
+[![Github](https://img.shields.io/github/followers/csmSimona?style=social)](https://github.com/csmSimona/)
+![GitHub User's stars](https://img.shields.io/github/stars/csmSimona)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 联系方式
+
+<div align="center">
+  <a href="mailto:simonacsm@163.com" target="_blank">
+    <img src="https://img.shields.io/badge/邮箱-chenshimeng.top-blue?style=flat-square&logo=email" />
+  </a>
+  <a href="https://github.com/csmSimona" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-csmSimona-black?style=flat-square&logo=github" />
+  </a>
+</div>

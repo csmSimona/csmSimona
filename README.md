@@ -19,3 +19,6 @@
 
 [![邮箱](https://img.shields.io/badge/邮箱-simonacsm@163.com-blue?style=flat-square&logo=email)](mailto:simonacsm@163.com)
 [![GitHub](https://img.shields.io/badge/GitHub-csmSimona-black?style=flat-square&logo=github)](https://github.com/csmSimona)
+
+<!-- 放置贪吃蛇游戏 -->
+![](https://github.com/csmSimona/csmSimona/blob/output/github-contribution-grid-snake.svg)
